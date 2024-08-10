@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\report2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\report2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\report2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\report2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\report2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createsubject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createsubject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|c:\\users\\thinkpad\\source\\repos\\appstudent\\appstudent\\createteacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883C466E-C193-4C46-B5DB-996BE1D788BD}|appstudent\\appstudent.csproj|solutionrelative:appstudent\\createteacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\admin.cs",
+              "RelativeDocumentMoniker": "appstudent\\admin.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\admin.cs [Design]",
+              "RelativeToolTip": "appstudent\\admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:49:08.47Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "createteacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.cs",
+              "RelativeDocumentMoniker": "appstudent\\createteacher.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.cs [Design]",
+              "RelativeToolTip": "appstudent\\createteacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:28:06.401Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "report2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.cs",
+              "RelativeDocumentMoniker": "appstudent\\report2.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.cs [Design]",
+              "RelativeToolTip": "appstudent\\report2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T03:47:58.275Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "report.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report.cs",
+              "RelativeDocumentMoniker": "appstudent\\report.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report.cs",
+              "RelativeToolTip": "appstudent\\report.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:40:59.018Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Form1.cs",
+              "RelativeDocumentMoniker": "appstudent\\Form1.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Form1.cs",
+              "RelativeToolTip": "appstudent\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:15:47.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "report.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report.cs",
+              "RelativeDocumentMoniker": "appstudent\\report.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report.cs [Design]",
+              "RelativeToolTip": "appstudent\\report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:47:07.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Form1.cs",
+              "RelativeDocumentMoniker": "appstudent\\Form1.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Form1.cs [Design]",
+              "RelativeToolTip": "appstudent\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T13:53:02.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "createteacher.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.cs",
+              "RelativeDocumentMoniker": "appstudent\\createteacher.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.cs",
+              "RelativeToolTip": "appstudent\\createteacher.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:30:26.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "createsubject.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.cs",
+              "RelativeDocumentMoniker": "appstudent\\createsubject.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.cs",
+              "RelativeToolTip": "appstudent\\createsubject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:17:55.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "createsubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.cs",
+              "RelativeDocumentMoniker": "appstudent\\createsubject.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.cs [Design]",
+              "RelativeToolTip": "appstudent\\createsubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:16:30.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "createstudent.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createstudent.cs",
+              "RelativeDocumentMoniker": "appstudent\\createstudent.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createstudent.cs",
+              "RelativeToolTip": "appstudent\\createstudent.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAqwBMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:18:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "createstudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createstudent.cs",
+              "RelativeDocumentMoniker": "appstudent\\createstudent.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createstudent.cs [Design]",
+              "RelativeToolTip": "appstudent\\createstudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:03:11.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "report2.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.cs",
+              "RelativeDocumentMoniker": "appstudent\\report2.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.cs",
+              "RelativeToolTip": "appstudent\\report2.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwIgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:06:31.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "teacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\teacher.cs",
+              "RelativeDocumentMoniker": "appstudent\\teacher.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\teacher.cs [Design]",
+              "RelativeToolTip": "appstudent\\teacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:11:48.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\teacher.cs",
+              "RelativeDocumentMoniker": "appstudent\\teacher.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\teacher.cs",
+              "RelativeToolTip": "appstudent\\teacher.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:54:27.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\student.cs",
+              "RelativeDocumentMoniker": "appstudent\\student.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\student.cs",
+              "RelativeToolTip": "appstudent\\student.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwDcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T08:11:29.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\student.cs",
+              "RelativeDocumentMoniker": "appstudent\\student.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\student.cs [Design]",
+              "RelativeToolTip": "appstudent\\student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T17:31:32.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\admin.cs",
+              "RelativeDocumentMoniker": "appstudent\\admin.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\admin.cs",
+              "RelativeToolTip": "appstudent\\admin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T07:58:24.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "report2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.Designer.cs",
+              "RelativeDocumentMoniker": "appstudent\\report2.Designer.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\report2.Designer.cs",
+              "RelativeToolTip": "appstudent\\report2.Designer.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwJMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:21:56.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "createclass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createclass.cs",
+              "RelativeDocumentMoniker": "appstudent\\createclass.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createclass.cs [Design]",
+              "RelativeToolTip": "appstudent\\createclass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:35:28.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "createclass.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createclass.cs",
+              "RelativeDocumentMoniker": "appstudent\\createclass.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createclass.cs",
+              "RelativeToolTip": "appstudent\\createclass.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAjwJkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:16:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Program.cs",
+              "RelativeDocumentMoniker": "appstudent\\Program.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\Program.cs",
+              "RelativeToolTip": "appstudent\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:35:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "createsubject.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.Designer.cs",
+              "RelativeDocumentMoniker": "appstudent\\createsubject.Designer.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createsubject.Designer.cs",
+              "RelativeToolTip": "appstudent\\createsubject.Designer.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwDoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:18:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "createteacher.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.Designer.cs",
+              "RelativeDocumentMoniker": "appstudent\\createteacher.Designer.cs",
+              "ToolTip": "C:\\Users\\ThinkPad\\source\\repos\\appstudent\\appstudent\\createteacher.Designer.cs",
+              "RelativeToolTip": "appstudent\\createteacher.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAASwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:30:50.456Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
